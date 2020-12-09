@@ -21,5 +21,6 @@
 
 ## [Motivated Research paper](https://arxiv.org/pdf/1911.12250.pdf)
 ## [More info on paper](https://eleurent.github.io/social-attention/)
+## [Agent code refernce](https://github.com/eleurent/rl-agents)
  
 
