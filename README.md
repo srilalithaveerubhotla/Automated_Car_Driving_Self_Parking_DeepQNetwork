@@ -14,6 +14,7 @@
 ## Results 
 
    [![Self Driving Car](https://github.com/srilalithaveerubhotla/Automated_Car_Driving_Self_Parking_DeepQNetwork/blob/main/pictures/download.gif)](https://github.com/srilalithaveerubhotla/Automated_Car_Driving_Self_Parking_DeepQNetwork/blob/main/pictures/download.mp4)
+   #### Note : If the video is not visible here please refer to pictures folder in the same repository
 
 ## How to run this notebook ?
 ### Directly open the colab and run 
