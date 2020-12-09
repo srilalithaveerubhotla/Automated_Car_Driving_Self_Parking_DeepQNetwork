@@ -1,0 +1,7 @@
+gym
+!pip install git+https://github.com/eleurent/highway-env#egg=highway-env
+highway_env
+sys
+!pip install tensorboardx gym pyvirtualdisplay
+!apt-get install -y xvfb python-opengl ffmpeg
+!git clone https://github.com/eleurent/highway-env.git
