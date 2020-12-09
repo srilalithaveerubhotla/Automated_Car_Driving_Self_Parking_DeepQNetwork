@@ -11,6 +11,8 @@
 
   - Environment -Highway by elurent 
   - Colab developed by Srilalitha and shailesh
+  - Running with multiple discount values
+  
 ## Results 
 
    [![Self Driving Car](https://github.com/srilalithaveerubhotla/Automated_Car_Driving_Self_Parking_DeepQNetwork/blob/main/pictures/download.gif)](https://github.com/srilalithaveerubhotla/Automated_Car_Driving_Self_Parking_DeepQNetwork/blob/main/pictures/download.mp4)
